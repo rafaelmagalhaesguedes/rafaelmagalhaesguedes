@@ -19,3 +19,6 @@ graduando Análise e Desenvolvimento e Sistemas na faculdade Pitágoras.
 <div>
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img alt="Instagran" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
+
+### Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagalhaesguedes&hide_progress=false)
