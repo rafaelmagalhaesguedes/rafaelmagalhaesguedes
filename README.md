@@ -3,10 +3,8 @@ Me chamo Rafael Magalhães, Desenvolvedor Web apaixonado por tecnologia! <br>
 Atualmente focado no curso de Programação da escola Trybe, e também <br>
 graduando Análise e Desenvolvimento de Sistemas na faculdade Pitágoras.
 
-### Skill's Atuais
+### Skill's
 <div>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <br>
