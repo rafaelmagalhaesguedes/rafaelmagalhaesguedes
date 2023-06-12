@@ -1,4 +1,4 @@
-## Hello World!
+## Hello World! 🤓
 Me chamo Rafael Magalhães, Desenvolvedor Web apaixonado por tecnologia! <br>
 Atualmente focado no curso de Programação da escola Trybe, e também <br>
 graduando Análise e Desenvolvimento de Sistemas na faculdade Pitágoras.
