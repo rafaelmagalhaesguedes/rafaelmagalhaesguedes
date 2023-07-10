@@ -17,7 +17,9 @@ Repositório de projetos do curso de Desenvolvimento Web da Escola Trybe!
 ### Contatos
 <div>
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-  <img alt="Portfólio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
+  <a href="http://rafaelguedes.top/">
+    <img alt="Portfólio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> 
+  </a>
 </div>
 
 ### Stats  
