@@ -1,6 +1,6 @@
 ## Hello World! 🤓
 
-Me chamo Rafael Guedes desenvolvedor web full stack.
+My name is Rafael Guedes xD
 
 ### Skill's
 <div>
