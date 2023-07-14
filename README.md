@@ -1,7 +1,6 @@
 ## Hello World! 🤓
 
-Repositório de projetos do curso de Desenvolvimento Web da Escola Trybe!
-
+Me chamo Rafael Guedes desenvolvedor web full stack.
 
 ### Skill's
 <div>
