@@ -8,8 +8,6 @@
   tecnologias como o REACT e TypeScript.
 </p>
 
-<h2><strong>Lets make it happen!</strong></h2>
-
 <h3>Skill's</h3>
 
 <div>
