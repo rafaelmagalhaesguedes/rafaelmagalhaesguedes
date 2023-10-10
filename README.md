@@ -18,4 +18,9 @@
 <div>
 
 ### Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagalhaesguedes&hide_progress=false)
+<div styles="display: flex; flex-direction: row;">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagalhaesguedes&hide_progress=false)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmagalhaesguedes&show_icons=true&theme=transparent)
+</div>
