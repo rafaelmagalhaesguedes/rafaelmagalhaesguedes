@@ -1,14 +1,9 @@
-<h1>Hello World! 🤓 </h1>
-
-<p>
-  Nome: Rafael Magalhães Guedes
-</p>
-<p>
-  Função: Desenvolvedor Web Frontend
-</p>
-
-<h3>Skill's</h3>
-
+<h1 align="center">
+  Rafael Magalhães Guedes
+</h1>
+<h4 align="center">
+  Desenvolvedor Web Full Stack
+</4>
 <div>
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
