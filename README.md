@@ -2,7 +2,7 @@
   Rafael Magalhães Guedes
 </h1>
 <h3 align="center">
-  Desenvolvedor Web Full Stack 👨‍💻
+  Full Stack Web Developer 👨‍💻
 </h3>
 <br />
 <div align="center">
