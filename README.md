@@ -28,13 +28,14 @@
 <br /><br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmagalhaesguedes&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
+  <a href="https://www.linkedin.com/in/rafael-magalh%C3%A3es-guedes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>
 </div>
 
 <br /><br />
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rafael-magalh%C3%A3es-guedes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmagalhaesguedes&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
 </div>
+
