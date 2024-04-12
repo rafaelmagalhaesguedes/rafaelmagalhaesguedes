@@ -29,9 +29,3 @@
   </a>
 </div>
 
-<br /><br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmagalhaesguedes&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-</div>
-
