@@ -2,7 +2,7 @@
   Rafael Magalhães Guedes
 </h1>
 <p align="center">
-  Olá, sou desenvolvedor web full stack, apaixonado por tecnologia e autodidata, sempre em constante evolução e aprendizado.
+  Olá, sou um desenvolvedor web Fullstack, apaixonado por tecnologia e autodidata, sempre em constante evolução e aprendizado.
 </p>
 <br />
 <div align="center">
