@@ -2,12 +2,12 @@
   Rafael Magalhães Guedes
 </h1>
 <p align="center">
-  Olá, sou um desenvolvedor web Fullstack, apaixonado por tecnologia e autodidata, sempre em constante evolução e aprendizado.
+  Hello, I'm a Fullstack web developer, passionate about technology and self-taught, always evolving and learning.
 </p>
 <br />
 <div align="center">
 
-  <h3>Minhas principais stacks</h3>
+  <h3>My Stacks</h3>
 
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -21,8 +21,8 @@
 <br /><br />
 
 <div align="center">
-  
-  <h3>Contatos</h3>
+
+  <h3>Contact me</h3>
   
   <a href="https://www.linkedin.com/in/rafael-magalh%C3%A3es-guedes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
@@ -30,5 +30,12 @@
   <a href="https://www.rafaelguedes.cloud/" target="_blank">  
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="My Web Site">
   </a>
+
+   <br /><br />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmagalhaesguedes&theme=blue-green" />
+  
+  <br />
+  
 </div>
 
