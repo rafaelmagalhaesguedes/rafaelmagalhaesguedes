@@ -29,6 +29,7 @@
   <a href="https://www.linkedin.com/in/rafael-magalh%C3%A3es-guedes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
-    
+  <h3>Email</h3>
+  <p>rafaelmagalhaes1@live.com</p>
 </div>
 
