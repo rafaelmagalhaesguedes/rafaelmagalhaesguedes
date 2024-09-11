@@ -4,7 +4,7 @@
   </h1>
   
   <p>
-    Hello, I am Rafael Guedes, a full stack web developer. Passionate about technology,
+    Hello, I am Rafael Guedes, a web developer. Passionate about technology,
     I am always seeking new learning experiences and connections. Connect with me on LinkedIn,
     and let's talk. I am     always open to new opportunities and challenging projects.
   </p>
